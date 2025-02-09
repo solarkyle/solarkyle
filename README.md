@@ -1,4 +1,4 @@
-# Kyle Bronstein – AI Researcher & Systems Developer 🚀
+# Kyle Bronstein – AI Researcher & Systems Developer
 
 ## 👋 About Me
 I'm a **self-taught AI researcher and developer** with 7+ years of experience coding from scratch. I specialize in **LLMs, RAG, custom APIs, and AI agents**—building **lean, powerful systems without relying on bloated frameworks**.
