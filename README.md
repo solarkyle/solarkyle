@@ -1,4 +1,4 @@
-# Kyle Bronstein – AI Researcher & Systems Developer
+# Kyle – AI Researcher & Systems Developer
 
 ## 👋 About Me
 I'm a **self-taught AI researcher and developer** with 7+ years of experience coding from scratch. I specialize in **LLMs, RAG, custom APIs, and AI agents**—building **lean, powerful systems without relying on bloated frameworks**.
@@ -21,4 +21,4 @@ I'm a **self-taught AI researcher and developer** with 7+ years of experience co
 
 ## 📫 Get in Touch
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/solarkyle)  
-📩 Email: kyle.bronstein@gmail.com
+📩 Email: fintechkyle@gmail.com
