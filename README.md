@@ -1,34 +1,30 @@
-# Kyle
+# Kyle B.
 
-I build things — ML models, games, web apps, fine-tuned LLMs, trading systems. Mostly Python and JavaScript. Self-taught, shipping since 2017.
-
----
-
-### What I'm Working On
-
-**[Alibi](https://github.com/solarkyle/alibi)** — AI murder mystery interrogation game. Every suspect is a fine-tuned LLM with its own personality, alibi, and breaking point. 8-layer dynamic prompt architecture, pressure mechanics, cross-reference system. Includes a [custom fine-tuned model](https://huggingface.co/solarkyle/alibi-suspect-qwen3.5-4b-gguf) and a [1,736-conversation training dataset](https://huggingface.co/datasets/solarkyle/alibi-interrogation-dataset) generated with 75 parallel Claude agents.
-
-**[UFC Fight Prediction](https://github.com/solarkyle/ufc-underdog-bettor)** — 10 ML models validated against 8,586 fights and 131K+ real betting odds. Built a Glicko-2 rating system for MMA (69.6% accuracy at high confidence), discovered that logistic regression beats every complex ensemble, and found the only statistically validated betting edge in the sport (women's decision props, +129.7% ROI, p < 0.0001).
-
-**[Resource Pack Creator](https://resourcepackcreator.com)** — Browser-based Minecraft resource pack builder. React 19, Zustand, TanStack Virtual. Live and in use.
-
-### Other Projects
-
-| Project | What it does |
-|---------|-------------|
-| [MCskinGen](https://github.com/solarkyle/MCskinGen) | Minecraft skin generator |
-| [stock_deep_researcher](https://github.com/solarkyle/stock_deep_researcher) | AI-powered stock move analysis |
-| [Adversarial-Researchers](https://github.com/solarkyle/Adversarial-Researchers) | Multi-agent debate research system |
-| [veo3-to-vertical](https://github.com/solarkyle/veo3-to-vertical) | Convert horizontal video to 9:16 for Shorts/Reels/TikTok |
-
-### Models on HuggingFace
-
-| Model | Description |
-|-------|-------------|
-| [alibi-suspect-qwen3.5-4b-gguf](https://huggingface.co/solarkyle/alibi-suspect-qwen3.5-4b-gguf) | Fine-tuned for murder mystery suspect roleplay |
-| [alibi-interrogation-dataset](https://huggingface.co/datasets/solarkyle/alibi-interrogation-dataset) | 1,736 synthetic interrogation conversations |
-| [7b_gemma_reasoning](https://huggingface.co/solarkyle/7b_gemma_reasoning) | Gemma 7B fine-tuned for reasoning |
+Independent research engineer: model internals, evaluations, and agentic systems. I take ambiguous technical questions, build the tooling needed to investigate them, and publish what I find, including the failures. Self-taught, shipping since 2017.
 
 ---
 
-Python, JavaScript, TypeScript, Kotlin, Solidity. Whatever gets the thing built.
+### Flagship
+
+**[jspace](https://github.com/solarkyle/jspace)**: same-day replication and extension of Anthropic's Jacobian-lens global-workspace research on open models, grown into a pre-registered cross-domain hallucination-detection campaign. 25k graded Gemma-12B traces, classifiers frozen and hashed before prospective data arrived, honest gate verdicts including a formal miss, and a methodological confound (answer-identity readout) documented so others do not rediscover it the hard way. Artifacts: [lenses + frozen classifiers](https://huggingface.co/solarkyle/jspace-lenses), [24.5k-trace dataset](https://huggingface.co/datasets/solarkyle/jspace-hallucination-campaign).
+
+### Also here
+
+**[tabfm-ufc-benchmark](https://github.com/solarkyle/tabfm-ufc-benchmark)**: a clean negative result. Google's TabFM beats a tuned 5-model ensemble on UFC prediction out of the box, and both lose decisively to the betting market. Public-data sports modeling has no moneyline edge; the write-up shows why.
+
+**[eg4-agent](https://github.com/solarkyle/eg4-agent)**: local-first, read-only monitor and LLM diagnostic agent for EG4 solar inverters. Advises, never actuates, by design.
+
+**[Alibi](https://github.com/solarkyle/alibi)**: AI murder-mystery interrogation game. Every suspect is a fine-tuned LLM with its own personality, alibi, and breaking point. Includes a [custom fine-tuned model](https://huggingface.co/solarkyle/alibi-suspect-qwen3.5-4b-gguf) and a [1,736-conversation synthetic dataset](https://huggingface.co/datasets/solarkyle/alibi-interrogation-dataset).
+
+**[Resource Pack Creator](https://resourcepackcreator.com)**: browser-based Minecraft resource pack builder. React 19, live, in use by thousands.
+
+### How I work
+
+- Build before claiming certainty.
+- Separate observations from interpretations.
+- Preserve negative results. They are results.
+- Update fast when the evidence breaks the hypothesis.
+
+### Contact
+
+fintechkyle@gmail.com · [Hugging Face](https://huggingface.co/solarkyle)
