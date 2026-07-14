@@ -14,6 +14,8 @@ Independent research engineer: model internals, evaluations, and agentic systems
 
 **[eg4-agent](https://github.com/solarkyle/eg4-agent)**: local-first, read-only monitor and LLM diagnostic agent for EG4 solar inverters. Advises, never actuates, by design.
 
+**[PixelLock](https://github.com/solarkyle/pixellock)**: footprint-locked AI pixel-art retexturing (Build Small hackathon). A fine-tuned text LLM restyles sprites through a llama.cpp GBNF grammar compiled from the input's silhouette, so the shape is preserved by construction, not by hope. [Live Space](https://huggingface.co/spaces/solarkyle/PixelLock), [weights](https://huggingface.co/solarkyle/pixellock-gemma-12b-pixelart-gguf).
+
 **[Alibi](https://github.com/solarkyle/alibi)**: AI murder-mystery interrogation game. Every suspect is a fine-tuned LLM with its own personality, alibi, and breaking point. Includes a [custom fine-tuned model](https://huggingface.co/solarkyle/alibi-suspect-qwen3.5-4b-gguf) and a [1,736-conversation synthetic dataset](https://huggingface.co/datasets/solarkyle/alibi-interrogation-dataset).
 
 **[Resource Pack Creator](https://resourcepackcreator.com)**: browser-based Minecraft resource pack builder. React 19, live, in use by thousands.
