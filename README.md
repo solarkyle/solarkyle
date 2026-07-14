@@ -1,4 +1,4 @@
-# Kyle B.
+# Kyle
 
 Independent research engineer: model internals, evaluations, and agentic systems. I take ambiguous technical questions, build the tooling needed to investigate them, and publish what I find, including the failures. Self-taught, shipping since 2017.
 
