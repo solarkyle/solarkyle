@@ -1,4 +1,4 @@
-# Kyle B.
+# Kyle
 
 I build products people use and run experiments designed to prove me wrong. Systems builder, researcher, tinkerer; hopelessly curious.
 
